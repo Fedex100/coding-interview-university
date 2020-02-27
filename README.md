@@ -1136,7 +1136,7 @@ Graphs can be used to represent many problems in computer science, so this secti
     - [ ] Raft - [An Introduction to the Raft Distributed Consensus Algorithm (video)](https://www.youtube.com/watch?v=P9Ydif5_qvE)
         - [X] [Easy-to-read paper](https://raft.github.io/)
         - [X] [Infographic](http://thesecretlivesofdata.com/raft/)
-- [ ] [Consistent Hashing](http://www.tom-e-white.com/2007/11/consistent-hashing.html)
+- [X] [Consistent Hashing](http://www.tom-e-white.com/2007/11/consistent-hashing.html)
 - [ ] [NoSQL Patterns](http://horicky.blogspot.com/2009/11/nosql-patterns.html)
 - [ ] Scalability:
     - You don't need all of these. Just pick a few that interest you.
